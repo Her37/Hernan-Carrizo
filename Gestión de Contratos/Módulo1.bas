@@ -1,4 +1,4 @@
-Attribute VB_Name = "Módulo1"
+Attribute VB_Name = "Mï¿½dulo1"
 Sub AplicarFiltroDesdeHoja1()
     Dim wsOrigen As Worksheet, wsDestino As Worksheet
     Dim ultimaFila As Long, i As Long
@@ -8,7 +8,7 @@ Sub AplicarFiltroDesdeHoja1()
     Set wsOrigen = Sheets("Hoja1")
     Set wsDestino = Sheets("Base Trabajo")
     
-    ' Encontrar la última fila con datos en la columna A de Hoja1
+    ' Encontrar la ultima fila con datos en la columna A de Hoja1
     ultimaFila = wsOrigen.Cells(wsOrigen.Rows.Count, 1).End(xlUp).Row
     
     ' Construir la cadena de criterios para el filtro
