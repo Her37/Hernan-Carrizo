@@ -1,11 +1,17 @@
 <h1 align="center">Hola 👋, Mi nombre es Hernán Carrizo</h1>
 <h3 align="center">Soy un entusiasta programador de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando **MidiAudio /JUCE /C++**
+- 🔭 Actualmente estoy trabajando [Acordes musicales/C++](https://github.com/Her37/MidiLatino)
 
-- 🌱 Actualmente me estoy capacitando en **Vue.Js**
+- 🌱 Actualmente me estoy capacitando en **.Net,Vue.js**
 
-- 💬 Preguntame sobre **React o JS**
+- 👯 I’m looking to collaborate on [MidiAudio /JUCE](https://github.com/Her37/AcordeControl)
+
+- 🤝 Estoy buscando capacitarme en [Ciencia de Datos](https://github.com/Her37/AP-4.0-UNSAM)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Her37](https://github.com/Her37)
+
+- 💬 Preguntame sobre **SAP**
 
 - 📫 como encontrarme **carrizo_h@yahoo.com.ar**
 
