@@ -5,11 +5,11 @@
 
 - 🌱 Actualmente me estoy capacitando en **.Net,Vue.js**
 
-- 👯 I’m looking to collaborate on [MidiAudio /JUCE](https://github.com/Her37/AcordeControl)
+- 👯 Estoy colaborando con [MidiAudio /JUCE](https://github.com/Her37/AcordeControl)
 
 - 🤝 Estoy buscando capacitarme en [Ciencia de Datos](https://github.com/Her37/AP-4.0-UNSAM)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Her37](https://github.com/Her37)
+- 👨‍💻 Todos mis proyectis estan disponibles en [https://github.com/Her37](https://github.com/Her37)
 
 - 💬 Preguntame sobre **SAP**
 
